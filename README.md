@@ -35,10 +35,22 @@ screenshots
 5. Exit
 
 # Screenshots
-<img width="462" height="265" alt="image" src="https://github.com/user-attachments/assets/41c5a413-9469-4fa4-b025-084e7bef0168" />
-<img width="471" height="326" alt="image" src="https://github.com/user-attachments/assets/c98d6ba4-6c1d-4387-94c1-a9a10bd5f86b" />
-<img width="372" height="180" alt="image" src="https://github.com/user-attachments/assets/25dc610f-586e-4c15-a03d-135f5982ca4e" />
-<img width="370" height="261" alt="image" src="https://github.com/user-attachments/assets/88e93dc4-ff6e-4bea-9c51-cd7f7b88c434" />
+<img width="465" height="313" alt="Screenshot 2025-11-24 224412" src="https://github.com/user-attachments/assets/cf9fcf00-1ed3-4c1c-a865-86162dd535ba" />
+<img width="536" height="423" alt="Screenshot 2025-11-24 224429" src="https://github.com/user-attachments/assets/7b399a7d-68e5-450d-99c1-9e014e6e087c" />
+<img width="360" height="223" alt="Screenshot 2025-11-24 224445" src="https://github.com/user-attachments/assets/5b003dd7-6e3f-479b-88ba-d9665e54bf1b" />
+<img width="411" height="333" alt="Screenshot 2025-11-24 224500" src="https://github.com/user-attachments/assets/d374c824-ac8a-416e-80aa-6a754abd7143" />
+<img width="482" height="249" alt="Screenshot 2025-11-24 224724" src="https://github.com/user-attachments/assets/c40bac41-24dc-40b9-a560-a1a3920b2391" />
+<img width="433" height="220" alt="Screenshot 2025-11-24 225303" src="https://github.com/user-attachments/assets/e444517a-ab60-4704-96e0-cb9c49ba3e81" />
+
+# Conclusion
+This project helped me understand Java basics, OOP Concepts, ArrayList usage, and building a menu driven application.
+
+
+
+
+
+
+
 
 
 
